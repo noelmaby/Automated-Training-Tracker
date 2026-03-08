@@ -33,4 +33,13 @@ Language: Python (PySpark)
 
 Storage: Delta Lake (ACID Compliant)
 
+
 Automation: Databricks Jobs
+
+##Architecture
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/b9d05e28-284b-4006-8ad3-b9ec7899a388" />
+
+##Dashboard
+<img width="1581" height="808" alt="Screenshot 2026-03-08 143015" src="https://github.com/user-attachments/assets/5d0b5692-c012-4cd5-9acb-cd510fdaf9c7" />
+<img width="1588" height="809" alt="Screenshot 2026-03-08 142758" src="https://github.com/user-attachments/assets/32f126f0-1404-4ff2-8b17-f3b45f468950" />
+
